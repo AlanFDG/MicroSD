@@ -159,7 +159,26 @@ p,li{
 }
 /*=============================================*/
 
-@media (max-width: 1200px) {
+@media (max-width: 2000px) {
+	.titulo .cuerpo h2{
+		font-size: 110px;
+	}
+	.titulo .cuerpo p{
+		font-size: 24px;
+	}
+
+	.dos-columna .cuerpo .texto h2{
+		font-size: 60px;
+	}
+	.dos-columna .cuerpo .texto p{
+		font-size: 26px;
+	}
+	.dos-columna .cuerpo .texto ul li{
+		font-size: 26px;
+	}
+}
+
+@media (max-width: 1300px) {
 	.titulo .cuerpo h2{
 		font-size: 100px;
 	}
