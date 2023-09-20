@@ -150,6 +150,28 @@ p,li{
 /*=============================================*/
 
 /*=============================================*/
+/*=============================================*/
+/*=============================================*/
+.control{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+.control button{
+	font-size: 60px;
+	border: none;
+	background-color: transparent;
+	color: aliceblue;
+}
+.control button:nth-child(1){
+	margin-right: 15px;
+}
+.control button:nth-child(2){
+	margin-right: 15px;
+}
+/*=============================================*/
+
+/*=============================================*/
 /*=========Numeracion de Pie de Pagina=========*/
 /*=============================================*/
 .N-Pie{
@@ -191,5 +213,14 @@ p,li{
 	}
 	.titulo-cuerpo .cuerpo p{
 		font-size: 22px;
+	}
+}
+
+@media (max-width: 500px){
+	.titulo .cuerpo h2{
+		font-size: 70px;
+	}
+	.titulo .cuerpo p{
+		font-size: 18px;
 	}
 }
