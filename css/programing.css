@@ -71,6 +71,9 @@ p,li{
 	text-align: justify;
 	font-size: 17px;
 }
+.titulo-cuerpo .cuerpo .movil{
+	display: none;
+}
 
 .dos-columna .cuerpo{
 	width: 80%;
@@ -235,6 +238,12 @@ p,li{
 	.titulo-cuerpo .cuerpo b,
 	.titulo-cuerpo .cuerpo a{
 		font-size: 16px;
+	}
+	.titulo-cuerpo .cuerpo .web{
+		display: none;
+	}
+	.titulo-cuerpo .cuerpo .movil{
+		display: block;
 	}
 
 	.dos-columna .cuerpo{
