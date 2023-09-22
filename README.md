@@ -11,6 +11,7 @@ La secuencia para poder conectar el modulo MicroSD a la Pico W en la siguiente t
 |D11|MOSI|
 |D13|SCK|
 |D9|CS|
+
 ![](/img/esquema_fisico.jpg)
 
 ## La Interfaz de MicroSD a Pico sin el modulo
