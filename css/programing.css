@@ -58,7 +58,7 @@ p,li{
 }
 .titulo-cuerpo .cuerpo p{
 	width: 100%;
-	font-size: 28px;
+	font-size: 30px;
 }
 .titulo-cuerpo .cuerpo img{
 	width: 70%;
@@ -73,7 +73,7 @@ p,li{
 }
 .titulo-cuerpo .cuerpo .movil,
 .titulo-cuerpo .cuerpo .web{
-	font-size: 26px;
+	font-size: 36px;
 }
 .titulo-cuerpo .cuerpo .movil{
 	display: none;
